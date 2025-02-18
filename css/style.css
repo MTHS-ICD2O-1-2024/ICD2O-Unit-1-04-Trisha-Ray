@@ -1,4 +1,16 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
+/* Created by: Trisha ray
+* Created on: Feburary 18 2025
 * This file contains the CSS for index.html
-*/
+*/body {
+  background-color: mistyrose;
+}
+
+h1 {
+  color: hsl(21, 61%, 82%);
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
